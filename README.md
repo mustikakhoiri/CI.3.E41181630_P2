@@ -32,4 +32,4 @@ G. Penggunaan URI Segment
 https://idcloudhost.com/panduan/mengenal-codeigniter-3-dan-konsep-mvc/
 
 # Penjelasan terkait Library dan Helper dapat dilihat pada link berikut:
-    https://idcloudhost.com/panduan/mengenal-library-helper-dan-mempercantik-url-codeigniter/
+https://idcloudhost.com/panduan/mengenal-library-helper-dan-mempercantik-url-codeigniter/
