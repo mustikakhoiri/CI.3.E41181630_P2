@@ -1,4 +1,4 @@
-Folder CI.3.E411630_P2 ini berisi hasil kegiatan praktikum CodeIgniter 3 terkait beberapa hal dengan pentunjuk beberapa link sebagai berikut:
+Folder CI.3.E411630_P2 ini berisi hasil kegiatan praktikum CodeIgniter 3 terkait beberapa hal dengan menggunakan pentunjuk melalui beberapa link berikut:
 
 A. Penerapan Konsep MVC
     1. https://www.malasngoding.com/cara-membuat-controller-pada-codeigniter/
