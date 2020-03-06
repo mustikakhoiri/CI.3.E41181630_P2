@@ -1,3 +1,4 @@
+# CODEIGNITER & BOOTSTRAP
 Folder CI.3.E411630_P2 ini berisi hasil kegiatan praktikum CodeIgniter 3 terkait beberapa hal dengan menggunakan pentunjuk melalui beberapa link berikut:
 
 A. Penerapan Konsep MVC
@@ -27,8 +28,8 @@ G. Penggunaan URI Segment
     Semakin banyak data yang diberikan user pada url, maka semakin tinggi juga angka yang digunakan dalam function segment URI.
 
 
-#Penjelasan terkait Konsep MVC dapat dilihat melalui link berikut:
+# Penjelasan terkait Konsep MVC dapat dilihat melalui link berikut:
 https://idcloudhost.com/panduan/mengenal-codeigniter-3-dan-konsep-mvc/
 
-#Penjelasan terkait Library dan Helper dapat dilihat pada link berikut:
+# Penjelasan terkait Library dan Helper dapat dilihat pada link berikut:
     https://idcloudhost.com/panduan/mengenal-library-helper-dan-mempercantik-url-codeigniter/
