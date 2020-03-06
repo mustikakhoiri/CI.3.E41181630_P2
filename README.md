@@ -2,26 +2,26 @@
 Folder CI.3.E411630_P2 ini berisi hasil kegiatan praktikum CodeIgniter 3 terkait beberapa hal dengan menggunakan pentunjuk melalui beberapa link berikut:
 
 A. Penerapan Konsep MVC
-    1. https://www.malasngoding.com/cara-membuat-controller-pada-codeigniter/
-    2. https://www.malasngoding.com/cara-membuat-view-pada-codeigniter/
+1. https://www.malasngoding.com/cara-membuat-controller-pada-codeigniter/
+2. https://www.malasngoding.com/cara-membuat-view-pada-codeigniter/
     
 B. Pemanggilan dan Pengaktifan Helper
-    https://www.malasngoding.com/mengenal-helper-html-pada-codeigniter/
+https://www.malasngoding.com/mengenal-helper-html-pada-codeigniter/
 
 C. Penggabungan CodeIginiter dengan Database
-    https://www.malasngoding.com/menghubungkan-codeigniter-dengandatabase-mysql/
+https://www.malasngoding.com/menghubungkan-codeigniter-dengandatabase-mysql/
 
 D. Pembuatan Form Validasi
-    https://www.malasngoding.com/membuat-form-validation-pada-codeigniter/
+https://www.malasngoding.com/membuat-form-validation-pada-codeigniter/
 
 E. Pembuatan Link Download
-    https://www.malasngoding.com/membuat-download-file-dengan-codeigniter/
+https://www.malasngoding.com/membuat-download-file-dengan-codeigniter/
     
 F. Pembuatan Library
-    https://www.malasngoding.com/membuat-library-sendiri-di-codeigniter/
+https://www.malasngoding.com/membuat-library-sendiri-di-codeigniter/
     
 G. Penggunaan URI Segment
-    https://www.malasngoding.com/pengertian-uri-segment-pada-codeigniter/
+https://www.malasngoding.com/pengertian-uri-segment-pada-codeigniter/
     
     URI (Uniform Resource Identifier) digunakan untuk membantu mengambil data yang diberikan user melalui url codeigniter.
     Penyebutan uri segment adalah seperti segment 1, segment 2, segment 3, dan seterusnya.
