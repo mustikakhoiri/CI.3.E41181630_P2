@@ -1,5 +1,3 @@
-#CODEIGNITER, BOOTSTRAP, DAN KONSEP MVC
-
 Folder CI.3.E411630_P2 ini berisi hasil kegiatan praktikum CodeIgniter 3 terkait beberapa hal dengan menggunakan pentunjuk melalui beberapa link berikut:
 
 A. Penerapan Konsep MVC
