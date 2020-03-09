@@ -28,8 +28,9 @@ https://www.malasngoding.com/pengertian-uri-segment-pada-codeigniter/
     Semakin banyak data yang diberikan user pada url, maka semakin tinggi juga angka yang digunakan dalam function segment URI.
 
 
-# Penjelasan terkait Konsep MVC dapat dilihat melalui link berikut:
+Penjelasan terkait Konsep MVC dapat dilihat melalui link berikut:
 https://idcloudhost.com/panduan/mengenal-codeigniter-3-dan-konsep-mvc/
 
-# Penjelasan terkait Library dan Helper dapat dilihat pada link berikut:
+
+Penjelasan terkait Library dan Helper dapat dilihat pada link berikut:
 https://idcloudhost.com/panduan/mengenal-library-helper-dan-mempercantik-url-codeigniter/
